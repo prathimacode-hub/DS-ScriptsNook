@@ -28,7 +28,7 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 You can choose up : Select a topic. Decide if you want to enhance your skills through Algorithms or Libraries or Tutorials.
 
-If you had worked on or want to initiate a unique script and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/ML-ScriptsZone/blob/main/CONTRIBUTING.md)👩‍💻
+If you had worked on or want to initiate a unique script and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/DS-Scripts/blob/main/CONTRIBUTING.md)👩‍💻
 
 When issue is raised from your end (or) taken it from issues tab to add a script, elaborate as much as you could as this is all about how efficiently you had gained knowledge on concepts.
 
@@ -37,10 +37,10 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>🛠Templates to Follow</h2>
 
-- [Feature request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/feature_request.md)
-- [Bug Report](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/issue_template/bug_report.md)
-- [Pull Request](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/pullrequest_template.md)
-- [README](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/.github/readme_template.md)
+- [Feature request](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/pullrequest_template.md)
+- [README](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/readme_template.md)
 
 **Note** : One should follow these templates while creating a new issue or pull request. 
 
@@ -72,14 +72,14 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>💡Look Through The Garage Of Useful Scripts</h2>
 
-- Linear Algebra
-- Calculus
-- Statistics
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Artificial Intelligence
+- [Linear Algebra]()
+- [Calculus]()
+- [Statistics]()
+- [Machine Learning]()
+- [Deep Learning]()
+- [Natural Language Processing]()
+- [Computer Vision]()
+- [Artificial Intelligence]()
 
 
 <h2>👍OpenSource Program</h2>
