@@ -57,7 +57,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 - Then in Github, in your cloned repository find the option to make a pull request 
 
-> print("Start contributing for ML-ProjectKart")
+> print("Start contributing for DS-ScriptsNook")
 
 
 <h2>⚙️Things to Note</h2>
