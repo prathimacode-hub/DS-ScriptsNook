@@ -26,7 +26,7 @@ Anyone related to technology who are looking to contribute to open-source, are a
 
 | **Linear Algebra** | **Calculus** | **Statistics** | **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** | **Artificial Intelligence** | 
 
-You can choose up : Select a topic. Decide if you want to enhance your skills through Algorithms or Libraries or Tutorials.
+You can choose up : Select a topic. Decide if you want to enhance your skills through Algorithms or Libraries or Tutorials and you're good to start.
 
 If you had worked on or want to initiate a unique script and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/DS-Scripts/blob/main/CONTRIBUTING.md)👩‍💻
 
