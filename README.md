@@ -97,10 +97,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!ðŸš
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/ML-ScriptsZone" />
-</a>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
