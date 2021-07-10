@@ -35,6 +35,31 @@ When issue is raised from your end (or) taken it from issues tab to add a script
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
+<h2>📝Project Structure</h2>
+
+Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
+
+- **For scripts on concepts, tutorials and libraries, the project structure should look like this:**
+
+Go to the concerned folder be it tutorials or libraries etc. For example, your want to add a script about Numpy Library. Go to "Machine Learning" Folder and then to "Libraries" folder. Here in this case, we are adding up an introduction to numpy. So the folder title should be a "Introduction To Numpy"
+
+In this folder, Create a "file_name.md" and the file name should be written as "introduction_to_numpy.md".
+
+Since it's a tutorial on library and a .md file. You should follow this [template](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/readme_template.md) to prepare this file and add up the relevant images needed to justify the elaboration of the concept.
+
+All the images used in .md file should be in "Images" folder within "Introduction To Numpy" folder. You can take up an concept and add up in respective folders. I had provided this example to guide you on a project structure. 
+
+- **For scripts of algorithms on Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence, the project structure should look like this:**
+
+Go to the respective ones and to the "Algorithms" folder. No , create a folder of your algorithm. (Example : If you want to add an algorithm of Decision Tree Classifier, then project name should be "Decision Tree Classifier" and file name as "decision_tree_classifier.ipynb")
+
+Other than algorithm file, it should also have a **'README.md'** using this [template](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/readme_template.md)
+
+**Images** - This folder would have all images added up in README.md and the script file.
+
+Elaborate your **README** briefly about how it works by showing step by step procedure.
+
+
 <h2>🛠Templates to Follow</h2>
 
 - [Feature request](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/issue_template/feature_request.md)
