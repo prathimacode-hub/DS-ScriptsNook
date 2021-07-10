@@ -72,14 +72,14 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>💡Look Through The Garage Of Useful Scripts</h2>
 
-- [Linear Algebra]()
-- [Calculus]()
-- [Statistics]()
-- [Machine Learning]()
-- [Deep Learning]()
-- [Natural Language Processing]()
-- [Computer Vision]()
-- [Artificial Intelligence]()
+- [Linear Algebra](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Linear%20Algebra)
+- [Calculus](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Calculus)
+- [Statistics](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Statistics)
+- [Machine Learning](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Machine%20Learning)
+- [Deep Learning](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Deep%20Learning)
+- [Natural Language Processing](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Natural%20Language%20Processing)
+- [Computer Vision](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Computer%20Vision)
+- [Artificial Intelligence](https://github.com/prathimacode-hub/DS-ScriptsNook/tree/main/Artificial%20Intelligence)
 
 
 <h2>👍OpenSource Program</h2>
