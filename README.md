@@ -114,7 +114,7 @@ This project is a part of this open source progam.
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
 
 
-<h2>🙌Levels & Points (LGMSOC)</h2>
+<h2>🙌Levels & Points (DCP)</h2>
 
 <table>
   <tr>
