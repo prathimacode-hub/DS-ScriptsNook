@@ -114,6 +114,32 @@ This project is a part of this open source progam.
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
 
 
+<h2>🙌Levels & Points (LGMSOC)</h2>
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>40</td>
+  </tr>
+</table>
+
+
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -121,6 +147,10 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/DS-ScriptsNook" />
+</a>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
@@ -135,6 +165,15 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-S
 <h2>📝License</h2>  
 
 This project follows the [MIT License](https://github.com/prathimacode-hub/ML-ScriptsZone/blob/main/LICENSE).
+
+
+<h2>✔Mentors(DevIncept)</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/bharath-acchu"><img src="https://avatars.githubusercontent.com/u/37451492?v=4" width="80px;" alt=""/><br /><sub><b>Bharath Acchu</b></sub></a></td>   
+  </tr>
+</table>
 
 
 <h2>🙂Project Admin</h2>
