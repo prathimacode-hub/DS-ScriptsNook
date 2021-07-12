@@ -16,9 +16,29 @@ The main prupose is to give a clear understanding on what linear regression algo
 
 **WORKING CONDITIONS**
 1.  Data preprocessing and exploration to understand what kind of data will we working on.
-2.  Data visualization to draw insights and get better underdstanding on different columns present in the dataset
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr1.jpg)
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr2.jpg)
+
+
+2.  Data visualization to draw insights and get better underdstanding on different columns present in the dataset.
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr3.jpg)
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr4.jpg)
+
+
 3.  Data training using train-test-split method from sklearn to split the data into training and testing data & Model creation using linear regression algorithm. 
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr5.jpg)
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr6.jpg)
+
 4.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Linear%20Regression/Images/lr7.jpg)
+
 
 
 For the dataset being used [Click here](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
@@ -68,6 +88,11 @@ For the dataset being used [Click here](https://www.kaggle.com/quantbruce/real-e
 
 **REFERENCES**
 
-For the dataset being used [click here](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
+- For the dataset being used [click here](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
+- https://www.geeksforgeeks.org/ml-linear-regression/
+- https://www.javatpoint.com/linear-regression-in-machine-learning
+
+
+
 
 **Happy Learning :)**
