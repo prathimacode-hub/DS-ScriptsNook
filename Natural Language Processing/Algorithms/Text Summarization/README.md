@@ -8,10 +8,12 @@
 
 **WORKING CONDITIONS**-
 
-1. Input document
-2. sentences similarity
-3. weight sentences
-4. select sentences with a higher rank.
+1. Input Text to be summarized
+2. split into sentences
+3. remove stop words, lemmatize, tokenize each word
+4. build a frequency table for each token
+5. Find value of each sentence
+6. pick top N sentences for summary.
 
 **USAGE** -This approach weights the important part of sentences and uses the same to form the summary. Different algorithms and techniques are used to define weights for the sentences and further rank them based on importance and similarity among each other.
 
