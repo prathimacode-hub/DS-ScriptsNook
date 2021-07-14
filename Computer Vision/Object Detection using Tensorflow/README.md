@@ -9,6 +9,7 @@ TensorFlow Object Detection API.The TensorFlow object detection API is a softwar
 The main purpose of this project is to detect objects in images using pre-trained SSD MobileNet model from tensorflow API.
 
 **WORKING CONDITIONS**
+
 Follow these steps to run this project :
 - Download Tensorflow object detection API from this link : https://github.com/tensorflow/models
  (Clone the Zip of directory into your local machine.) You can find the folder models/research/object detection
@@ -55,5 +56,5 @@ Follow these steps to run this project :
 
 **Created By :**
 
---> Name : Shivani Rana
----> Connect with me on [Github](https://github.com/shivani6320), [LinkedIn](https://www.linkedin.com/in/shivani-rana-b833a91a3/) and [Kaggle](https://www.kaggle.com/shivanirana63) 
+- --> Name : Shivani Rana
+- --> Connect with me on [Github](https://github.com/shivani6320), [LinkedIn](https://www.linkedin.com/in/shivani-rana-b833a91a3/) and [Kaggle](https://www.kaggle.com/shivanirana63) 
