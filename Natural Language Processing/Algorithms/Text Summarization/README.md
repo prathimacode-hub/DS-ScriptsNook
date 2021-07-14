@@ -33,10 +33,10 @@ WordNet Lemmatizer: WordNet is a lexical database of English that is freely and 
 
 **ADVANTAGES** - Here are a few advantages:
 
-Summarizing reduces perusing time.
-While investigating reports, outlines make the determination procedure simpler.
-Summarization improves the adequacy of ordering.
-Summarization calculations are less one-sided than human summarizers.
+1. Summarizing reduces perusing time.
+2. While investigating reports, outlines make the determination procedure simpler.
+3. Summarization improves the adequacy of ordering.
+4. Summarization calculations are less one-sided than human summarizers.
 
 **DISADVANTAGES** - some sentiments of the text may be missed.
 
