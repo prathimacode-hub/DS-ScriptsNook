@@ -51,7 +51,9 @@ view [here](https://www.frase.io/blog/20-applications-of-automatic-summarization
 **CONCLUSION** - We will learn to build a basic text summarizer that uses the extractive summarization technique.
 
 **REFERENCES and Further reading** -
-https://python.gotrained.com/lexical-resources-nltk/, https://github.com/WING-NUS/scisumm-corpus, https://github.com/EdinburghNLP/XSum
+For understading concept- https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f
+For types of text summarization- https://www.machinelearningplus.com/nlp/text-summarization-approaches-nlp-example/,
+https://machinelearningmastery.com/gentle-introduction-text-summarization/, https://python.gotrained.com/lexical-resources-nltk/, https://github.com/WING-NUS/scisumm-corpus, https://github.com/EdinburghNLP/XSum
 
 NAME - Raghu Madhav Tiwari
 LINKEDIN- linkedin.com/in/raghumadhavtiwari
