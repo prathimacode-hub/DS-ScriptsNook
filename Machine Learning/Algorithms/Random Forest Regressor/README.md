@@ -80,12 +80,14 @@ For the dataset being used [click here](https://www.kaggle.com/ionaskel/laptop-p
 - numpy
 
 **ADVANTAGES**
-- Simple
-- Easy to understand & interpret
+- It works well with both categorical and continuous values.
+- It automates missing values present in the data.
+- Easy understand & interpret
 - Good for regression tasks
 - Used in prediction projects etc.
 
 **DISADVANTAGES**
+- It also requires much time for training as it combines a lot of decision trees to determine the class.
 - Relationship between features should be well understood or else it might give low performance efficiency.
 - Can give low accuracy if features are not identified properly.
 - Cannot be used for classification projects.
@@ -106,6 +108,9 @@ For the dataset being used [click here](https://www.kaggle.com/ionaskel/laptop-p
 **REFERENCES**
 
 - For the dataset being used [click here](https://www.kaggle.com/ionaskel/laptop-prices)
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+- https://www.mygreatlearning.com/blog/random-forest-algorithm/
+- https://www.geeksforgeeks.org/random-forest-regression-in-python/
 
 
 **Author**
