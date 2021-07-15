@@ -69,6 +69,16 @@ Can be used for user guidance:
 
 ## **CONCLUSION**
 Congo! Your virtual Rickbot is ready! With the help of fine-tuning our model on a small dataset, we were able to create a virtual character with whom we can have interesting dialogs.
+Here is an example of the chat: </br>
+
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/ex1.jpeg" width=700>
+</div>
+</ol>
+
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/ex2.jpeg" width=700>
+</div>
+</ol>
+
 
 Using the given approach you can create many interesting virtual characters based on an arbitrary dialogs dataset (just a csv file with replicas, one replica per line).
 
