@@ -29,15 +29,14 @@ Let's understand random forest regressor with help of a small project that is pr
 
 **WORKING CONDITIONS**
 1.  Data preprocessing and exploration to understand what kind of data will we working on.
-
-
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr1.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr2.jpg)
 2.  Data visualization to draw insights and get better underdstanding on different columns present in the dataset.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr3.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr4.jpg)
 
 
-
-Insights drawn:
+**Insights drawn:**
 *   Most of the laptops are from these three companies- Dell, Lenovo and HP.
 
 *   Maximum Laptops are of 15.6 inches.
@@ -52,17 +51,14 @@ Insights drawn:
 
 
 3.  Data Preparation which includes converting categorical columns into numerical, dropping unwanted columns etc.
-
-4.  Data training using train-test-split method from sklearn to split the data into training and testing data & Model creation using linear regression algorithm. 
-
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr5.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr6.jpg)
+4.  Data training using train-test-split method from sklearn to split the data into training and testing data & Model creation using linear regression algorithm.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr7.jpg) 
 5.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Random%20Forest%20Regressor/Images/rrr8.jpg)
 
-
-
-
-For the dataset being used [click here](https://www.kaggle.com/ionaskel/laptop-prices)
+    For the dataset being used [click here](https://www.kaggle.com/ionaskel/laptop-prices)
 
 **USAGE**
 - It is basically used for REGRESSION TASKS
