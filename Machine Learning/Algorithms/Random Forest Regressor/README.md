@@ -89,7 +89,7 @@ Let's understand random forest regressor with help of a small project that is pr
 - Cannot be used for classification projects.
 
 **APPLICATIONS**
-- Used in Prediction projects.
+- Used in Prediction projects such as price prediction, salary predeiction etc.
 - Used in different regression tasks.
 - Can help in improving business plan by providing fruitful insights and prediction analysis.
 
