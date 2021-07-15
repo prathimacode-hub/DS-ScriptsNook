@@ -13,31 +13,28 @@ In this tutorial, I will be explaining how to create a virtual character whose s
 ## **WORKING CONDITIONS**
 <ol>
     <li>Mounting the drive </li>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Mounting.jpeg" width=200>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Mounting.jpeg" width=700>
 </div>
     <li>Importing Packages and Installing transformer</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Transformer.jpeg" width=200>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Transformer.jpeg" width=700>
 </div>
     <li>Setting up the arguments</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Arguments.jpeg" width=200>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Arguments.jpeg" width=700>
 </div>
     <li>Data Visualization</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Vis1.jpeg" width=200>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Vis1.jpeg" width=700>
 </div>
     <li>Data Processing</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Processing.jpeg" width=200>
+
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Processing.jpeg" width=700>
 </div>
     <li>Training the data</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Train.jpeg" width=200>
+
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Train.jpeg" width=700>
 </div>
     <li>Testing the model</li>
-    <div align="center">
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Test.jpeg" width=200>
+
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Test.jpeg" width=700>
 </div>
 </ol>
 
