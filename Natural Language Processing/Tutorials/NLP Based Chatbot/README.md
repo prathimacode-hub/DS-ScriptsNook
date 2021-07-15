@@ -12,29 +12,36 @@ In this tutorial, I will be explaining how to create a virtual character whose s
 
 ## **WORKING CONDITIONS**
 <ol>
-    <li>Mounting the drive </li>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Mounting.jpeg" width=700>
+    <li><strong> Mounting the drive </strong></li> </br>
+    Mount the drive and enter the path to the folder where your dataset is stored, so you can access it. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Mounting.jpeg" width=700>
 </div>
-    <li>Importing Packages and Installing transformer</li>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Transformer.jpeg" width=700>
+    <li><strong> Importing Packages and Installing transformer </strong></li> </br>
+    Importing all the packages needed for the further processing of the model.
+    <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/libraries.jpeg" width=700>
+</div> </br>
+    Instead of training from scratch, we will load "Microsoft's pre-trained GPT DialoGPT-small" model which is just over 351 MBs in size still performs pretty good, and fine-tune it using our dataset.
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Transformer.jpeg" width=700>
 </div>
-    <li>Setting up the arguments</li>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Arguments.jpeg" width=700>
+    <li><strong> Setting up the arguments </strong></li> </br>
+    Then we set up the required parameters which will be used to train the model. Eg: tokenizer_name, block_size, learning_rate, num_train_epochs, etc. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Arguments.jpeg" width=700>
 </div>
-    <li>Data Visualization</li>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Vis1.jpeg" width=700>
+    <li><strong> Data Visualization </strong></li> </br>
+    We then, take a look at first 10 columns of our original dataset. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Data%20Vis1.jpeg" width=700>
 </div>
-    <li>Data Processing</li>
-
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Data%20Processing.jpeg" width=700>
+    <li><strong> Data Processing </strong></li> </br>
+    Once the data visualization is done, Now we will convert our dataset in a format suitable for our model. Basically we will concatenate responses in one string for each row (additionally we will add special ‘end of string’ token between responses, so the model will understand the end of each response in a string). </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Data%20Processing.jpeg" width=700>
 </div>
-    <li>Training the data</li>
-
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Train.jpeg" width=700>
+    <li><strong> Training the data </strong></li> </br>
+    Now its time to train our model, we need not to worry further as we have given the data in correct format to the model. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Train.jpeg" width=700>
 </div>
-    <li>Testing the model</li>
-
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/Test.jpeg" width=700>
+    <li><strong> Testing the model </strong></li> </br>
+    After thae training process, the model is ready, now you can chat with the bot who is Rick in our case. Here is the conversation output of the chat with Rickbot. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/Test.jpeg" width=700>
 </div>
 </ol>
 
@@ -71,16 +78,17 @@ Can be used for user guidance:
 Congo! Your virtual Rickbot is ready! With the help of fine-tuning our model on a small dataset, we were able to create a virtual character with whom we can have interesting dialogs.
 Here is an example of the chat: </br>
 
-<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/ex1.jpeg" width=700>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/ex1.jpeg" width=700>
 </div>
 </ol>
 
-<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/demoPics/ex2.jpeg" width=700>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Natural%20Language%20Processing/Tutorials/NLP%20Based%20Chatbot/Images/ex2.jpeg" width=700>
 </div>
 </ol>
 
 
-Using the given approach you can create many interesting virtual characters based on an arbitrary dialogs dataset (just a csv file with replicas, one replica per line).
+Using the given approach you can create many interesting virtual characters based on an arbitrary dialogs dataset (just a csv file with replicas, one replica per line). </br>
+**Remember the better you use the dataset and fine-tune the parameters like learning_rate, num_train_epochs, block_size better the model will perform.**
 
 ## **REFERENCES**
 - [Dataset Used](https://www.kaggle.com/andradaolteanu/rickmorty-scripts)
