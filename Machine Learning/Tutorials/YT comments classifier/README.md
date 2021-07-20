@@ -20,11 +20,11 @@ In this tutorial, I will be creating a harmful comments filter using multinomial
     Importing all the packages needed for the further processing of the model.
     <img src="" width=700>
 </div> </br>
-    Instead of training from scratch, we will load "Microsoft's pre-trained GPT DialoGPT-small" model which is just over 351 MBs in size still performs pretty good, and fine-tune it using our dataset.
+    
   <img src="" width=700>
 </div>
     <li><strong>Preparation of the dataset (Arrangement and Cleaning)</strong></li> </br>
-    Then we set up the required parameters which will be used to train the model. Eg: tokenizer_name, block_size, learning_rate, num_train_epochs, etc. </br>
+    Then we set up the required parameters which will be used to train the model. Eg:  </br>
   <img src="" width=700>
 </div>
     <li><strong> Data Visualization </strong></li> </br>
