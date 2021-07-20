@@ -58,6 +58,6 @@ Tokenization is a powerful way of dealing with text data. We saw a glimpse of th
 
 **Created By :**
 
---> Name : Shivani Rana
---> LinkedIn : https://www.linkedin.com/in/shivani-rana-b833a91a3/
---> Kaggle : https://www.kaggle.com/shivanirana63
+- Name : Shivani Rana
+- LinkedIn : https://www.linkedin.com/in/shivani-rana-b833a91a3/
+- Kaggle : https://www.kaggle.com/shivanirana63
