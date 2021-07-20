@@ -139,6 +139,10 @@ This project is a part of this open source progam.
   </tr>
 </table>
 
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/DCP_SCORECARD.md
+)** <br>
+**Point to Note** : It will be updated once in 4 days. 
+
 
 <h2>✨Hall Of Fame</h2>   
 
