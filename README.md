@@ -1,16 +1,26 @@
 # DS-ScriptsNook
 
-<div align="center">
+<p align="center">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/DS-ScriptsNook.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/maintenance/yes/2021"></a>
+</p> 
 
-![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/DS-ScriptsNook.png)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2021)](https://github.com/prathimacode-hub)
-
-</div>
+<p align="center">
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/stargazers"><img src="https://badgen.net/github/stars/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/network/members"><img src="https://badgen.net/github/forks/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/issues"><img src="https://badgen.net/github/open-issues/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/issues?q=is%3Aissue+is%3Aclosed"><img src="https://badgen.net/github/closed-issues/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/pulls"><img src="https://badgen.net/github/prs/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/pulls"><img src="https://badgen.net/github/open-prs/prathimacode-hub/DS-ScriptsNook"></a>
+<a href="https://github.com/prathimacode-hub/DS-ScriptsNook/pulls?q=is%3Apr+is%3Aclosed"><img src="https://badgen.net/github/closed-prs/prathimacode-hub/DS-ScriptsNook"></a>
+</p>
 
 
 <h2>📌Repository</h2>
@@ -139,6 +149,10 @@ This project is a part of this open source progam.
   </tr>
 </table>
 
+You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/DCP_SCORECARD.md
+)** <br>
+**Point to Note** : It will be updated once in 4 days. 
+
 
 <h2>✨Hall Of Fame</h2>   
 
@@ -159,12 +173,12 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
     
 <h2>📜Code Of Conduct</h2>
 
-You can find our Code of Conduct [here](https://github.com/prathimacode-hub/ML-ScriptsZone/blob/main/CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/CODE_OF_CONDUCT.md).
 
 
 <h2>📝License</h2>  
 
-This project follows the [MIT License](https://github.com/prathimacode-hub/ML-ScriptsZone/blob/main/LICENSE).
+This project follows the [MIT License](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/LICENSE).
 
 
 <h2>✔Mentors(DevIncept)</h2>
@@ -178,8 +192,15 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/ML-Sc
 
 <h2>🙂Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=120px height=120px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
+
+<h2>🌟 Stargazers Over Time 🌟</h2>
+
+[![Stargazers over time](https://starchart.cc/prathimacode-hub/DS-ScriptsNook.svg)](https://starchart.cc/prathimacode-hub/DS-ScriptsNook)
 
 
 <h2>⭐Give this Project a Star</h2>
@@ -189,6 +210,9 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/ML-Sc
 If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+</td>
 
 
 <h2>📬 Contact</h2>
