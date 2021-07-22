@@ -88,7 +88,7 @@ Can be used in:
 Congo! Your model is ready with no longer training period or with no longer steps involved.🥳 </br>
 </br>
 Accuracy of our model is 93.14 % which is pretty good. This is the improved accuracy achieved by concatinating the datasets.</br>
-<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Tutorials/Youtube%20Comments%20Classifier/Images/Testing.jpeg" width=700>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Tutorials/Youtube%20Comments%20Classifier/Images/Accuracy.jpeg" width=700>
 
 
 Using the given approach you can use different datasets and check working of this model on them. </br>
