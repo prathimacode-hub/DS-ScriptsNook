@@ -86,12 +86,16 @@ Can be used in:
 
 ## **CONCLUSION**
 Congo! Your model is ready with no longer training period or with no longer steps involved.🥳 </br>
+</br>
+Accuracy of our model is 93.14 % which is pretty good. This is the improved accuracy achieved by concatinating the datasets.</br>
+<img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Tutorials/YT%20comments%20classifier/Images/Testing.jpeg" width=700>
 
 
 Using the given approach you can use different datasets and check working of this model on them. </br>
 </br>
 
 ## **REFERENCES**
+- [Classification using Naive Multi-label Classification](https://www.kaggle.com/datasets?search=youtube+spam+comments)
 - [Dataset Used](https://www.kaggle.com/prashant111/youtube-spam-collection)
 - [Optional Dataset](https://www.kaggle.com/datasets?search=youtube+spam+comments)
 
