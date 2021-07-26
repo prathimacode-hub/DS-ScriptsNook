@@ -22,15 +22,19 @@ KNN works by finding the distances between a query and all the examples in the d
 1.  Data preprocessing and exploration to understand what kind of data will we working on.
 
 - Here we work on preprocessing and exploring the data to understand what kind of data we are working on, it's shape, memory usage, columns, data types etc.
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn1.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn2.jpg)
 2.  Data visualization to draw insights and get better underdstanding on different columns present in the dataset.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn3.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn4.jpg)
 
 
-3. Data training using train-test-split method from sklearn to split the data into training and testing data and then  Model creation using decision tree classifier algorithm, where we import the model, then initialize it and fit training data into it and lastly perform predictions on the test data.
-
+3. Data training using train-test-split method from sklearn to split the data into training and testing data and then  Model creation using KNN classifier algorithm, where we import the model, then initialize it and fit training data into it and lastly perform predictions on the test data.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn5.jpg)
 
 5.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
+
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/KNN%20Classifier/Images/knn6.jpg)
 
    - For the dataset being used in this project [click here](https://www.kaggle.com/balakrishcodes/others?select=Movie_classification.csv) 
 
@@ -78,6 +82,9 @@ KNN works by finding the distances between a query and all the examples in the d
 **REFERENCES**
 
 - For the dataset being used in this project [click here](https://www.kaggle.com/balakrishcodes/others?select=Movie_classification.csv) 
+- https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+- https://www.analyticsvidhya.com/blog/2021/04/simple-understanding-and-implementation-of-knn-algorithm/
+- https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_knn_algorithm_finding_nearest_neighbors.htm
 
 **Author**
 
