@@ -35,8 +35,8 @@ Here we imported all the required packages and concatinated all the .csv files p
     Then we use the different parameters which helps in data cleaning. Eg: str.replace()  </br>
   <img src="" width=700> </br>
 </div>
-  
   </br>
+  
 </div>
     <li><strong>Setting up the variables</strong></li> </br>
     Once the data visualization is done, Now we will convert our dataset in a format suitable for our model. Basically we will concatenate responses in one string for each row (additionally we will add special ‘end of string’ token between responses, so the model will understand the end of each response in a string). </br>
