@@ -14,39 +14,42 @@ K-means Algorithm is an Iterative algorithm that divides a group of n datasets i
 <ol>
     <li><strong> Mounting the drive </strong></li> </br>
     Mount the drive and enter the path to the folder where your dataset is stored, so you can access it. </br>
-  <img src="" width=700> 
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/mounting.jpeg" width=700> 
 </br>
 </br>
 </div>
     <li><strong> Importing required Packages</strong></li> </br>
     Importing all the packages needed for the further processing of the model. </br>
-    <img src="" width=700>
+    <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/packages.jpeg" width=700>
 </div> </br>
-Here we imported all the required packages and concatinated all the .csv files present in the folder 
+Here we imported all the required packages required for the model.
 </br>
 </br>
 </div>
     <li><strong> Data Visualization </strong></li> </br>
-    We then, take a look at 10 random rows of our original dataset which has spam links (Before Processing) </br>
-  <img src="" width=700>
+    We then, perform the exploratory data analysis and visualize the data. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/dataviz1.jpeg" width=700>
+  </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/dataviz2.jpeg" width=700>
   </br>
 </div>
     <li><strong>Preparation of the dataset (Arrangement and Cleaning)</strong></li> </br>
-    Then we use the different parameters which helps in data cleaning. Eg: str.replace()  </br>
-  <img src="" width=700> </br>
+    Then we use the different parameters which helps in data cleaning. Eg: kmeans.fit(), means.cluster_centers_ , etc.  </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/dataprep.jpeg" width=700> </br>
 </div>
   </br>
-  
+
 </div>
     <li><strong>Setting up the variables</strong></li> </br>
-    Once the data visualization is done, Now we will convert our dataset in a format suitable for our model. Basically we will concatenate responses in one string for each row (additionally we will add special ‘end of string’ token between responses, so the model will understand the end of each response in a string). </br>
-  <img src="" width=700>
+    Once the data visualization is done, Now we will convert our dataset in a format suitable for our model. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/setvar.jpeg" width=700>
   </br>
   </br>
 </div>
     <li><strong>Then Finally, Testing</strong></li> </br>
-    After thae training process, the model is ready, now you can add comments and test the model. Here are some examples tried to test the model. </br>
-  <img src="" width=700>
+    </br>
+    Here, we have achieved a weak classification accuracy of 1% with k=2 by our unsupervised model. So, I changed the value of k and find relatively higher classification accuracy of 88% with k=4. Hence, we can conclude that k=4 being the optimal number of clusters. </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/testing.jpeg" width=700>
 </div>
 </ol>
 </br>
@@ -62,6 +65,7 @@ Here we imported all the required packages and concatinated all the .csv files p
 - Numpy
 - matplotlib.pyplot
 - seaborn
+- kmeans
 
 ## **ADVANTAGES**
 
