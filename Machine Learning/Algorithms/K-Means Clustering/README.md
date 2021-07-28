@@ -109,6 +109,7 @@ K-Means clustering is used in a variety of examples or business cases in real li
 ## **REFERENCES**
 - [Introduction to K-means Clustering](https://www.simplilearn.com/tutorials/machine-learning-tutorial/k-means-clustering-algorithm)
 - [Pros and Cons of K-means](https://developers.google.com/machine-learning/clustering/algorithm/advantages-disadvantages)
+- [Dataset Used](https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand)
 
 ## **YOUR NAME**
 
