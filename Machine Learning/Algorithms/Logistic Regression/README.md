@@ -1,40 +1,46 @@
-# **LOGIsTIC REGRESSION**
-
-
+# **LOGISTIC REGRESSION**
+ 
+Logistic Regression is a SUPERVISED ML algorithm which uses labelled data.
+It is highly used for classification tasks & projects.
 
 **GOAL**
-
-Write the main goal of this project and what's the purpose of it
+The goal is to use and understand this algorithm using a project as water poratabilty prediction.
 
 
 **PURPOSE**
+ To give a clear undertanding of what logistic regression is all about, its use cases, advantages, disadvantages, working etc.
 
-What's the purpose of this "Title Taken"
 
+**DATASET** 
 
-**DATASET** (if applicable)
-
-Add a link to dataset and from where it's taken.
+for the dataset being used [click here](https://www.kaggle.com/adityakadiwal/water-potability)
 
 
 **DESCRIPTION**
 
-Short description about the idea and approach you had gone with
+Let's understand this algorithm with help of a project i.e. water portability prediction where we have to classify the target variable 'Potability' which
+Indicates if water is safe for human consumption or not as 0 or 1.
+
+Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
 
 
 **WHAT I HAD DONE**
 
-What have you worked on for this issue should be stated using points.
+Step 1: Data Preprocessing & Exploration.
+
+Step 2: Data Visualization.
+
+Step 3: Data Training & Model Creation.
+
+Step 4: Performance Evaluation.
 
 
 **WORKFLOW OF YOUR PROJECT FILES**
 
-Add the workflow of the script point by point to get good understanding of the concept
 
 
-**DIAGRAMS**
 
-Showcase various diagrams or flowcharts to get good understanding of this concept in an explanatory manner. Visual reprsentations makes things more clear.
+
 
 
 **STATE YOUR PROCEDURE AND UNDERSTANDING FROM YOUR WORK**
@@ -48,9 +54,6 @@ What did you learn while working on this issue.
 Why have you choosed this methodology should also be stated.
 
 
-**DETAILED EXPLANATION OF SCRIPT, IF APPLICABLE**
-
-Provide detailed explanation of the script in elaborative manner using points
 
 
 **USAGE**
@@ -82,15 +85,6 @@ Disadvantages of this concept and where this can't be implied should be stated h
 
 List out all the applications where this concept can be useful
 
-
-**RESEARCH**
-
-Have you done any research on this issue, if so describe more on it
-
-
-**SCREENSHOTS**
-
-Add screenshots of the output or visualizations or anything related to your script to show it works
 
 
 **CONCLUSION**
