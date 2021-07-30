@@ -43,28 +43,26 @@ Step 4: Performance Evaluation.
 1.Data preprocessing and exploration to understand what kind of data will we working on.
 
 Here we work on preprocessing and exploring the data to understand what kind of data we are working on, it's shape, memory usage, columns, data types etc.
-![]()
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr1.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr2.jpg)
 
 Also, check for any null or missing values, if found then remove or replace them with central tendancy.
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr3.jpg)
 
 2. Data visualization to draw insights and get better underdstanding on different columns present in the dataset.
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr4.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr5.jpg)
 
 3. Data training using train-test-split method from sklearn to split the data into training and testing data and then Model creation using logistic regression algorithm, where we import the model, then initialize it and fit training data into it and lastly perform predictions on the test data.
 
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr6.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr7.jpg)
 
 4. Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Logistic%20Regression/Images/lr8.jpg)
 
 
-
-
-
-
-
-**STATE YOUR PROCEDURE AND UNDERSTANDING FROM YOUR WORK**
+**STATE YOUR PROCEDURE**
 
 The step by step procedure that I followed is given above along with respective screenshots.
 
@@ -75,7 +73,7 @@ Other classification algorithms can also be used on this dataset to draw compari
 
 **USAGE**
 - Used for classification tasks & projects.
--  
+- Various projects in fields of medical, education, etc. 
 
 
 **USE CASES**
