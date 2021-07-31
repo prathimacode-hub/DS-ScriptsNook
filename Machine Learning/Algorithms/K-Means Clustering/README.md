@@ -41,7 +41,7 @@ Here we imported all the required packages required for the model.
 
 </div>
     <li><strong>Setting up the variables</strong></li> </br>
-    Once the data visualization is done, Now we will convert our dataset in a format suitable for our model. </br>
+    Once the data visualization is done, Now we will convert our dataset in a format suitable for our model.  </br>
   <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/K-Means%20Clustering/Images/setvar.jpeg" width=700>
   </br>
   </br>
