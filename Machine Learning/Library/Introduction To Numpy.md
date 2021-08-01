@@ -92,9 +92,7 @@ supports “nan” but lack of cross-platform support within Python makes it dif
 -> Array Generation
 
 **SCREENSHOTS**
-
-Add screenshots of the output or visualizations or anything related to your script to show it works
-
+https://github.com/suy1968/DS-ScriptsNook/blob/main/Machine%20Learning/Library/Images/Screenshot%20(92).png
 
 **CONCLUSION**
 NumPy is a python package used for numerical and scientific computing. It provides better runtime and space complexity. It provides a wide variety of array operations. 
