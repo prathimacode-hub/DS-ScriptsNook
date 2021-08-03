@@ -1,6 +1,8 @@
 import cv2
 from pyzbar import pyzbar
 
+
+# Decoding Function
 def read_barcodes(frame):
     barcodes = pyzbar.decode(frame)
     for barcode in barcodes:
@@ -22,6 +24,8 @@ def read_barcodes(frame):
             file.write("The scanned code is :- " + barcode_info)
     return frame
 
+
+# Main Function
 def main():
     #1
     camera = cv2.VideoCapture(0)
