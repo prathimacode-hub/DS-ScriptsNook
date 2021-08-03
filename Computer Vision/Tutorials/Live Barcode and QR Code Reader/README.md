@@ -14,13 +14,13 @@ If you are wondering how barcode and QR code readers work, let’s do a quick re
 <ol>
     <li><strong>Setting up the enviornment</strong></li> </br>
      I recommend to perform the task in the local enviornment and not on the online enviornments because it might cause issues in loading your local camera. </br>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/settingup.png" width=700> 
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/settingup.png" width=700> 
 </br>
 </br>
 </div>
     <li><strong> Importing required Packages</strong></li> </br>
     Importing all the packages needed for the further processing of the model. </br>
-    <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/importing.png" width=700>
+    <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/importing.png" width=700>
 </div> </br>
 As i have already installed the packages, it is showing me like this.
 </br>
@@ -32,14 +32,14 @@ As i have already installed the packages, it is showing me like this.
 - Recognizing and decoding the barcode/QR code that we will be showing to the camera.
 - Adding the stored information as a text on the recognized barcode/QR code.
 - And lastly, exporting the stored information as a text document.  </br>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/decodingFn.png" width=700> </br>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/decodingFn.png" width=700> </br>
 </div>
   </br>
 
 </div>
     <li><strong>Main Function</strong></li> </br>
     In this step, we will write the main function, where the application is prompt to work. The main function will turn on the video camera of the computer, and the then call the decoding function. </br>
-  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/mainFn.png" width=700>
+  <img src="https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/mainFn.png" width=700>
   </br>
   </br>
 </div>
@@ -48,12 +48,12 @@ As i have already installed the packages, it is showing me like this.
 
 - This is how the model detects and scans the QRcode/Barcode visible in the camera frame. </br> 
 
-![Scanned Sample](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/scanned_sample.png)
+![Scanned Sample](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/qr_scanned_sample.png)
 
 - And this is how the model saves the result of the QRcode/Barcode scan in the `.txt` file 
 </br>
 
-![Result Sample](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/result_sample.png)
+![Result Sample](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/result_sample.png)
 </div>
 </ol>
 </br>
@@ -102,11 +102,11 @@ Congrats!! You have created a program the reads barcodes and QR codes for you. N
 
 ### QR Code Example
 
-![QR Code](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Live%20Barcode%20and%20QR%20Code%20Reader/Images/scanned_sample.png) </br>
+![QR Code](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/qr_scanned_sample.png) </br>
 
 ### Barcode Example
 
-![Barcode]() </br>
+![Barcode](https://github.com/DevIncept-Contribution-Program-21/DS-ScriptsNook/blob/main/Computer%20Vision/Tutorials/Live%20Barcode%20and%20QR%20Code%20Reader/Images/barcode_scanned_sample.png) </br>
 
 </br>
 
