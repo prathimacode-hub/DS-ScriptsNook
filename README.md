@@ -149,6 +149,10 @@ This project is a part of this open source progam.
   </tr>
 </table>
 
+Once your **PR is merged**, make sure you fill up this form.
+
+**Form Link : https://docs.google.com/forms/d/e/1FAIpQLSfLNWo_eTLYVzSfijMug_fGAjQmhHXINA3kp4Eig3pzQXJacg/viewform**
+
 You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/DCP_SCORECARD.md
 )** <br>
 **Point to Note** : It will be updated once in 4 days. 
