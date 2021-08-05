@@ -1,0 +1,12 @@
+Required libraries with their versions used in this project :
+sklearn - 0.24.2
+matplotlib - 3.4.2
+numpy - 1.21
+cv2 - 4.5.3.56
+collections - along with every python version(currently 3.7)
+skimage - 0.19
+os - along with every python version(currently 3.7)
+
+All the required libraries can be obtained using pip install command or one of the following websites
+https://anaconda.com
+https://pypi.org
