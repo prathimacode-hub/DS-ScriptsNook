@@ -11,6 +11,15 @@ It is of 2 types:
 
 Our ML model cannot work with either null values or categorical values
 
+
+*---------------------------------Check for null values----------------------------------*
+In order to proceed, we need to check if our data has any null values or not
+This can be checked with:
+**Syntax:** 
+data.isnull().sum()
+This will give no of null values in each columm
+
+
 *---------------------------------Handling missing values----------------------------------*
 
 If you have less missing values and are not that important, then you can directly drop them 
