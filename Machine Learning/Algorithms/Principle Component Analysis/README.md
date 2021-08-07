@@ -26,6 +26,9 @@ Initially, you need to find the principal components from different points of vi
 WHAT I HAD DONE
 
 I have created a detailed .ipynb notebook with concept explanation and implementation with code.
+Here is the output from the code :
+
+![](https://github.com/shivani6320/DS-ScriptsNook/blob/f0902a59ffff2d9088eba3729880db2f0baddee0/Machine%20Learning/Algorithms/Principle%20Component%20Analysis/Images/img1.PNG)
 
 
 USAGE
@@ -41,6 +44,15 @@ DISADVANTAGES
 
 You must note that data standardization ( which also includes converting categorical variables to numerical) is a must before using PCA. On applying PCA, the independent features become less interpretable because these principal components are also not readable or interpretable. 
 There are also chances that you lose information while PCA.
+
+
+USE-CASES
+
+- The most important use of PCA is to represent a multivariate data table as smaller set of variables (summary indices) in order to observe trends, jumps, clusters and outliers. 
+- Principal Component Analysis (PCA) is used to explain the variance-covariance structure of a set of variables through linear combinations. It is often used as a dimensionality-reduction technique.
+
+## PCA on [IRIS Dataset](https://www.kaggle.com/uciml/iris): 
+![](https://github.com/shivani6320/DS-ScriptsNook/blob/f0902a59ffff2d9088eba3729880db2f0baddee0/Machine%20Learning/Algorithms/Principle%20Component%20Analysis/Images/img2.png)
 
 APPLICATIONS
 
@@ -63,6 +75,14 @@ CONCLUSION
 - It is often used to help in dealing with multi- collinearity before a model is developed.
 - It describes that data is a good story teller of its own.
 - These models are useful in data interpretation and variable selection.
+
+REFERENCES
+
+- https://www.edureka.co/blog/principal-component-analysis/
+- https://www.analyticsvidhya.com/blog/2020/12/an-end-to-end-comprehensive-guide-for-pca/
+- https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+- http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+- https://sdsclub.com/the-ultimate-guide-on-principal-component-analysis-in-r/
 
 
 # Author :
