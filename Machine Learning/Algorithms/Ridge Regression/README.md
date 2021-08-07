@@ -97,9 +97,9 @@ For the dataset being used in this project [click here](https://www.kaggle.com/r
 
 
 **Some beginner friendly REFERENCES**
-
-- 
-
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
+- https://machinelearningmastery.com/ridge-regression-with-python/
+- https://towardsdatascience.com/ridge-regression-for-better-usage-2f19b3a202db
 
 **Author**
 
