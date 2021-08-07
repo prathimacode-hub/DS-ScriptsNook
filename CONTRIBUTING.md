@@ -105,7 +105,7 @@ please contact before doing so.
 - If you have modified/added code work, make sure that code works before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Follow the project structure mentioned in [README](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/README.md)
-- Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/CONTRIBUTING.md).
+- Do not update the [README.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/CONTRIBUTING.md).
 
 
 ## 📖Resources
