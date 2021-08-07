@@ -35,34 +35,25 @@ For the dataset being used in this project [click here](https://www.kaggle.com/r
 1.  Data preprocessing and exploration to understand what kind of data will we working on.
 
 - Here we work on preprocessing and exploring the data to understand what kind of data we are working on, it's shape, memory usage, columns, data types etc.
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr1.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr2.jpg)
 
 2. Also, we need to check for any null or missing values, if found then replace or remove them accordingly.
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr3.jpg)
 
 3.  Data visualization to draw insights and get better underdstanding on different columns present in the dataset.
-
-
-
-
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr4.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr5.jpg)
 
 
 4. Data training using train-test-split method from sklearn to split the data into training and testing data and then  Model creation using ridge regression algorithm, where we import the model, then initialize it and fit training data into it and lastly perform predictions on the test data.
 
-
-
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr6.jpg)
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr7.jpg)
 
 5.  Checking performance by error and accuracy check to find how efficient algorithm performed for this project.
 
-
-
-
-
+![](https://github.com/ayushi424/DS-ScriptsNook/blob/main/Machine%20Learning/Algorithms/Ridge%20Regression/Images/rr8.jpg)
 
 **USAGE**
 - It is basically used for REGRESSION TASKS.
