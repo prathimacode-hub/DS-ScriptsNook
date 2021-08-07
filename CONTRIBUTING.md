@@ -81,13 +81,12 @@ another person in the queue.
 
 ### 🧲Pull Requests Review Criteria
 
-1. Please fill the **[PR Template](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/pullrequest_template.md)** properly while making a Pull 
-2. Request.
-3. You must add your script into the respective **folders**.
-4. Your work must be original, written by you not copied from other resources.
-5. You must comment on your code or script where necessary.
-6. Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
-7. For any queries or discussions, please feel free to drop a message.
+1. Please fill the **[PR Template](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/pullrequest_template.md)** properly while making a Pull Request.
+2. You must add your script into the respective **folders**.
+3. Your work must be original, written by you not copied from other resources.
+4. You must comment on your code or script where necessary.
+5. Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
+6. For any queries or discussions, please feel free to drop a message.
 
 
 ## 📍Other points to remember while submitting your work:
@@ -106,7 +105,7 @@ please contact before doing so.
 - If you have modified/added code work, make sure that code works before submitting.
 - If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
 - Follow the project structure mentioned in [README](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/README.md)
-- Do not update the [README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/CONTRIBUTING.md).
+- Do not update the [README.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/README.md) and [Contributing_Guidelines.md](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/CONTRIBUTING.md).
 
 
 ## 📖Resources
