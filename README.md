@@ -189,7 +189,7 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/DS-Sc
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/bharath-acchu"><img src="https://avatars.githubusercontent.com/u/37451492?v=4" width="80px;" alt=""/><br /><sub><b>Bharath Acchu</b></sub></a></td>   
+<td align="center"><a href="https://github.com/bharath-acchu"><img src="https://avatars.githubusercontent.com/u/37451492?v=4" width="100px;" alt=""/><br /><sub><b>Bharath Acchu</b></sub></a></td>   
   </tr>
 </table>
 
