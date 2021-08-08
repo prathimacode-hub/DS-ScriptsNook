@@ -74,9 +74,30 @@ This step should be done compulsorily in all cases before developing an ml model
 
 - pandas (pip install pandas)
 
+**ADVANTAGES**
+- Data pre-processing helps us in giving the data into model without any problems
+
+**DISADVANTAGES**
+
+None
+
+**APPLICATIONS**
+- Data preprocessing is used database-driven applications such as customer relationship management and rule-based applications 
+
+**SCREENSHOTS**
+
+<img src="E:\github\DS-ScriptsNook\Machine Learning\Libraries\Data Preprocessing in ML\Images\img1.PNG" alt="None">
+<img src="E:\github\DS-ScriptsNook\Machine Learning\Libraries\Data Preprocessing in ML\Images\img3.PNG" alt="None">
+<img src="E:\github\DS-ScriptsNook\Machine Learning\Libraries\Data Preprocessing in ML\Images\img5.PNG" alt="None">
+
 ### CONCLUSION
 
 Therefore, before building any ml model, one must take take about the data preprocessing section because the real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors.
+
+### REFERENCES
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9
+https://www.javatpoint.com/data-preprocessing-machine-learning
 
 ### YOUR NAME
 Karakattil Dilrose Reji
