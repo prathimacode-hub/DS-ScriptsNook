@@ -46,8 +46,10 @@ We got to know the methodology to extract colors from an image using KMeans algo
 
 REFERENCES :
 
-https://medium.com/programming-fever/color-detection-using-opencv-python-6eec8dcde8c7#:~:text=Color%20detection%20is%20necessary%20to,and%20pandas%20(python%20libraries).
+https://medium.com/programming-fever/color-detection-using-opencv-python-6eec8dcde8c7#:~:text=Color%20detection%20is%20necessary%20to,and%20pandas%20(python%20libraries)
+
 https://data-flair.training/blogs/project-in-python-colour-detection/
+
 https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
 
 YOUR NAME - Vishva Rana
