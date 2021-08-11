@@ -155,7 +155,7 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/DS-Sc
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/ayushi424"><img src="" width="100px;" alt="https://avatars.githubusercontent.com/u/68391974?v=4"/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>   
+<td align="center"><a href="https://github.com/ayushi424"><img src="https://avatars.githubusercontent.com/u/68391974?v=4" width="80px;" alt=""/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>
   </tr>
 </table>
 
