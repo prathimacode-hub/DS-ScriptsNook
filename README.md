@@ -124,40 +124,6 @@ This project is a part of this open source progam.
 <a href="https://github.com/prathimacode-hub"><img src="https://user-images.githubusercontent.com/54024433/125442861-013b33c2-35c1-46b0-8390-d6a6e2f038ab.jpg" width=150px height=150px /></a> 
 
 
-<h2>🙌Levels & Points (DCP)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>40</td>
-  </tr>
-</table>
-
-Once your **PR is merged**, make sure you fill up this form.
-
-**Form Link : https://docs.google.com/forms/d/e/1FAIpQLSfLNWo_eTLYVzSfijMug_fGAjQmhHXINA3kp4Eig3pzQXJacg/viewform**
-
-You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/.github/DCP_SCORECARD.md
-)** <br>
-**Point to Note** : It will be updated once in 4 days. 
-
-
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -185,11 +151,11 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/DS-S
 This project follows the [MIT License](https://github.com/prathimacode-hub/DS-ScriptsNook/blob/main/LICENSE).
 
 
-<h2>✔Mentors(DevIncept)</h2>
+<h2>✔Project Maintainer</h2>
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/bharath-acchu"><img src="https://avatars.githubusercontent.com/u/37451492?v=4" width="100px;" alt=""/><br /><sub><b>Bharath Acchu</b></sub></a></td>   
+<td align="center"><a href="https://github.com/ayushi424"><img src="" width="100px;" alt="https://avatars.githubusercontent.com/u/68391974?v=4"/><br /><sub><b>Ayushi Shrivastava</b></sub></a></td>   
   </tr>
 </table>
 
