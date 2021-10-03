@@ -4,16 +4,13 @@
 
 To create a Convolutional Neural Network Model to classify images.
 
-
 **PURPOSE**
 
 To understand the CNN network
 
-
 **DATASET** (if applicable)
 
 Dataset Added
-
 
 **WORKFLOW OF YOUR PROJECT FILES**
 
@@ -27,7 +24,6 @@ I have choosed this issue specifically to contribute about CNN.
 
 All types of Image Processing
 
-
 **LIBRARIES USED**
 
 - numpy
@@ -37,6 +33,10 @@ All types of Image Processing
 - keras
 - cv2
 - sklearn
+
+**Folder Contents**
+- Images - Contain Model architecture and training graph
+- Model and Weight - Contains saved weights and model object as JSON file
 
 **ADVANTAGES**
 
