@@ -1,5 +1,5 @@
 
-#fleur_de_lis: Introduction to Keras
+# :fleur_de_lis: Introduction to Keras
 
 
 ## :nazar_amulet: Aim:
