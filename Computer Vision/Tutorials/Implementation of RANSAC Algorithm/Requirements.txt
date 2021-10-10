@@ -1,0 +1,7 @@
+Libraries imported:
+1. train_test_split from sklearn.preprocessing
+2.LinearRegression from sklearn.linear_model
+3.r2_score , mean_squared_eror
+4. matplotlib
+5.pandas
+6.StandardScaler from sklearn.preprocessing.
