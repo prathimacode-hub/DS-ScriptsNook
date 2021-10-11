@@ -1,5 +1,5 @@
 ## PROJECT TITLE
-# :pushpin: **Word Embeddings Techniques**
+# :dart: **Word Embeddings Techniques**
 
 
 ## INTRODUCTION
@@ -9,15 +9,15 @@ We will learn about various word embedding techniques.
 In this I have cover various word embedding techniques.
 
 
-# :pushpin: Binary Encoding
-# :pushpin: TF-IDF Encoding
-# :pushpin: One Hot Encoding
-# :pushpin: Word2Vec
-# :pushpin: Continuous Bowl of Words(CBOW)
-# :pushpin: kip Gram
-# :pushpin: Bag of Words
-# :pushpin: GloVe
-# :pushpin: Embedding Layer
+ :pushpin: Binary Encoding
+ :pushpin: TF-IDF Encoding
+ :pushpin: One Hot Encoding
+ :pushpin: Word2Vec
+ :pushpin: Continuous Bowl of Words(CBOW)
+ :pushpin: kip Gram
+ :pushpin: Bag of Words
+ :pushpin: GloVe
+ :pushpin: Embedding Layer
 
 # :page_facing_up: **Pratical Implementation**
 
@@ -35,7 +35,7 @@ In this I have cover various word embedding techniques.
 * nltk
 * gensim
 
-#  CONCLUSION
+# :bulb:  CONCLUSION
 We can use any one of the text feature extraction based on our project requirement. Because every method has their advantages  like a Bag-Of-Words suitable for text classification, TF-IDF is for document classification and if you want semantic relation between words then go with word2vec.
 # REFERENCES
 https://machinelearningmastery.com/what-are-word-embeddings/
