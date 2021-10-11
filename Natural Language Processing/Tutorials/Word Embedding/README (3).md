@@ -1,7 +1,7 @@
 ## PROJECT TITLE
 # :pushpin: **Word Embeddings Techniques**
 
-
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1838%2F1*jpnKO5X0Ii8PVdQYFO2z1Q.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fword-embedding-with-word2vec-and-fasttext-a209c1d3e12c&tbnid=NbAthHQT97GalM&vet=12ahUKEwin_5CC1cLzAhXZm0sFHWD6B1gQMygregUIARCIAg..i&docid=Pet2KX6omOSsjM&w=1748&h=952&q=word%20embedding%20techniques%20image&ved=2ahUKEwin_5CC1cLzAhXZm0sFHWD6B1gQMygregUIARCIAg)
 ## INTRODUCTION
 We will learn about various word embedding techniques.
 
