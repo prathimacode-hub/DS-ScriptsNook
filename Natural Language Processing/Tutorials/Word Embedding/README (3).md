@@ -5,7 +5,7 @@
 ## INTRODUCTION
 We will learn about various word embedding techniques.
 
-## page_facing_up:  **BRIEF EXPLANATION**
+## :page_facing_up:  **BRIEF EXPLANATION**
 In this I have cover various word embedding techniques.
 
 
@@ -19,7 +19,7 @@ In this I have cover various word embedding techniques.
 # :pushpin: GloVe
 # :pushpin: Embedding Layer
 
-# page_facing_up: **Pratical Implementation**
+# :page_facing_up: **Pratical Implementation**
 
 * Word Embedding Techniques using Embedding Layer in Keras.
 * One Hot Encoding.
