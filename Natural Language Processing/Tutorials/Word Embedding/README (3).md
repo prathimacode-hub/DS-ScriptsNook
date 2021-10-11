@@ -5,20 +5,20 @@
 ## INTRODUCTION
 We will learn about various word embedding techniques.
 
-## BRIEF EXPLANATION
+## page_facing_up:  **BRIEF EXPLANATION**
 In this I have cover various word embedding techniques.
 
-* Binary Encoding.
-* TF-IDF Encoding.
-* One Hot Encoding
-* Word2Vec
-* Continuous Bowl of Words(CBOW)
-* Skip Gram
-* Bag of Words
-* GloVe
-* Embedding Layer
+dart: **Binary Encoding**.
+ dart: **TF-IDF Encoding.**
+ dart: **One Hot Encoding**
+ dart: **Word2Vec**
+ dart: **Continuous Bowl of Words(CBOW)**
+ dart: **Skip Gram**
+  dart: **Bag of Words**
+ dart: **GloVe**
+dart: **Embedding Layer**
 
-# Pratical Implementation
+# page_facing_up: **Pratical Implementation**
 
 * Word Embedding Techniques using Embedding Layer in Keras.
 * One Hot Encoding.
