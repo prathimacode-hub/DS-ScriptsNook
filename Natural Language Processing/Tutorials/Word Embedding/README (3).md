@@ -9,15 +9,15 @@ We will learn about various word embedding techniques.
 In this I have cover various word embedding techniques.
 
 
-# :pushpin: **Binary Encoding**
-# :pushpin: **TF-IDF Encoding
-# :pushpin: **One Hot Encoding**
-# :pushpin: **Word2Vec**
-# :pushpin: **Continuous Bowl of Words(CBOW)**
-# :pushpin: **Skip Gram**
-# :pushpin: **Bag of Words**
-# :pushpin: **GloVe**
-# :pushpin: **Embedding Layer**
+# :pushpin: Binary Encoding
+# :pushpin: TF-IDF Encoding
+# :pushpin: One Hot Encoding
+# :pushpin: Word2Vec
+# :pushpin: Continuous Bowl of Words(CBOW)
+# :pushpin: kip Gram
+# :pushpin: Bag of Words
+# :pushpin: GloVe
+# :pushpin: Embedding Layer
 
 # page_facing_up: **Pratical Implementation**
 
