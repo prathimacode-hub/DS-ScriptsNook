@@ -1,9 +1,10 @@
 ## PROJECT TITLE
-# :dart: **Word Embeddings Techniques**
+# :dart: **Word Embedding Techniques**
 
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/Word-Vectors.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+     
 ##  :page_facing_up: INTRODUCTION
 We will learn about various word embedding techniques.
 
@@ -21,19 +22,21 @@ In this I have cover various word embedding techniques.
  
  :pushpin: Continuous Bowl of Words(CBOW)
  
- :pushpin: kip Gram
+ :pushpin: skip Gram
  
  :pushpin: Bag of Words
  
- :pushpin: GloVe
+ :pushpin: Glove
  
  :pushpin: Embedding Layer
 
 # :bar_chart: **Pratical Implementation**
 
+<code>Code</code> [See here](./word_embeddings.ipynb)
 * Word Embedding Techniques using Embedding Layer in Keras.
 * One Hot Encoding.
 * Word2Vec.
+
  
 ## :key: LIBRARIES USED
 
