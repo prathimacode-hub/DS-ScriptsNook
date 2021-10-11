@@ -1,8 +1,10 @@
 ## PROJECT TITLE
 # :dart: **Word Embeddings Techniques**
 
-
-## INTRODUCTION
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/Word-Vectors.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+##  :page_facing_up: INTRODUCTION
 We will learn about various word embedding techniques.
 
 ## :page_facing_up:  **BRIEF EXPLANATION**
@@ -27,13 +29,13 @@ In this I have cover various word embedding techniques.
  
  :pushpin: Embedding Layer
 
-# :page_facing_up: **Pratical Implementation**
+# :bar_chart: **Pratical Implementation**
 
 * Word Embedding Techniques using Embedding Layer in Keras.
 * One Hot Encoding.
 * Word2Vec.
  
-## LIBRARIES USED
+## :key: LIBRARIES USED
 
 * Pandas
 * Numpy
