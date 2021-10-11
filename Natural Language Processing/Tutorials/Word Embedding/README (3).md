@@ -8,15 +8,15 @@ We will learn about various word embedding techniques.
 ## page_facing_up:  **BRIEF EXPLANATION**
 In this I have cover various word embedding techniques.
 
-dart: **Binary Encoding**.
- dart: **TF-IDF Encoding.**
- dart: **One Hot Encoding**
- dart: **Word2Vec**
- dart: **Continuous Bowl of Words(CBOW)**
- dart: **Skip Gram**
-  dart: **Bag of Words**
- dart: **GloVe**
-dart: **Embedding Layer**
+# dart: **Binary Encoding**.
+# dart: **TF-IDF Encoding.**
+# dart: **One Hot Encoding**
+# dart: **Word2Vec**
+# dart: **Continuous Bowl of Words(CBOW)**
+# dart: **Skip Gram**
+# dart: **Bag of Words**
+# dart: **GloVe**
+# dart: **Embedding Layer**
 
 # page_facing_up: **Pratical Implementation**
 
