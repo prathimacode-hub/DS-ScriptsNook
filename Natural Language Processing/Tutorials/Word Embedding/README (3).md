@@ -1,7 +1,6 @@
 ## PROJECT TITLE
-Word Embeddings Techniques
+# :pushpin: **Word Embeddings Techniques**
 
-<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.analyticsvidhya.com%2Fwp-content%2Fuploads%2F2019%2F11%2FWord-Vectors.png&imgrefurl=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2020%2F08%2Ftop-4-sentence-embedding-techniques-using-python%2F&tbnid=FFYTHb0sqhoRfM&vet=12ahUKEwjr1qyr0sLzAhWhnksFHX8_DRwQMygCegUIARC1AQ..i&docid=iSq6gLsGZubvSM&w=1505&h=527&q=word%20embedding%20techniques%20image&ved=2ahUKEwjr1qyr0sLzAhWhnksFHX8_DRwQMygCegUIARC1AQ">
 
 ## INTRODUCTION
 We will learn about various word embedding techniques.
