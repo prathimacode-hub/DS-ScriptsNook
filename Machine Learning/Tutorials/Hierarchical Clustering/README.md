@@ -1,12 +1,12 @@
-**Google Stock Price Prediction**
+**Mall Customers Clustering**
 
 **GOAL**
 
-To Create a RNN to predict Google's Stock Price
+To Cluster Mall Customers using hierarchical clustering
 
 **PURPOSE**
 
-To understand the RNN network
+To understand the basics of hierarchical clustering
 
 
 **DATASET** (if applicable)
@@ -20,22 +20,19 @@ Refer the comments in notebook file for explanations
 
 **USAGE**
 
-I have choosed this issue specifically to contribute about RNN.
+I have choosed this issue specifically to contribute about unsupervised learning - clustering.
 
 **USE CASES**
 
-- Stock price prediction
-- Time Series based application
+- ny grouping use cases can be done using this
 
 **LIBRARIES USED**
 
-- matplotlib
 - numpy
+- matplotlib
 - pandas
+- scipy
 - sklearn
-- keras
-- math
-
 
 **RESEARCH**
 
