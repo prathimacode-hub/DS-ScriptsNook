@@ -2,15 +2,15 @@
 
 **GOAL**
 
-To create a Convolutional Neural Network Model to classify images.
+To create a Convolutional Neural Network Model to classify Homer and Bart images (Simpson Characters).
 
 **PURPOSE**
 
-To understand the CNN network
+To utilise the power of Convolutional Neural Network for image classification
 
 **DATASET** (if applicable)
 
-Dataset Added
+Dataset is included as zip file. Please extract the zip file.
 
 **WORKFLOW OF YOUR PROJECT FILES**
 
@@ -18,11 +18,11 @@ Refer the comments in notebook file for explanations
 
 **USAGE**
 
-I have choosed this issue specifically to contribute about CNN.
+I have choosed this issue specifically to prove the power of Convolutional Networks for image datasets.
 
 **USE CASES**
 
-All types of Image Processing
+All types of Image Processings.
 
 **LIBRARIES USED**
 
@@ -37,14 +37,15 @@ All types of Image Processing
 **Folder Contents**
 - Images - Contain Model architecture and training graph
 - Model and Weight - Contains saved weights and model object as JSON file
+- homer_bart_2.zip - dataset as zip file (extract before running notebook)
 
 **ADVANTAGES**
 
-Takes lesser time and weights are lesser in storage in CNN than ANN
+For image processing CNN takes lesser time and space occupied by the weights are lesser compared to ANN
 
 **CONCLUSION**
 
-CNN is better than ANN for image dataset
+CNN is the best for image processing.
 
 **YOUR NAME**
 
