@@ -1,10 +1,11 @@
 
-# :fleur_de_lis: Implementation of RANSAC Algorithm 
+# :fleur_de_lis: Data Fitting using RANSAC Algorithm 
 ## :nazar_amulet:  Objective:
- To clean dataset from noise using RANSAC Algorithm
+ To clean dataset from noise and detect outliers using RANSAC Algorithm.
 ## :nazar_amulet:  what is RANSAC Algorithm?
-The RANSAC algorithm is a learning technique to estimate parameters of a model by random sampling of observed data. The RANSAC algorithm is essentially composed of two steps that are iteratively repeated.
-  The RANSAC algorithm was first introduced by Fischler and Bolles in 1981 as a method to estimate the parameters of a certain model, starting from a set of data contaminated by large amounts of outliers. It is an iterative, non-deterministic algorithm which uses least-squares to estimate model parameters. The basic premise of RANSAC is the presence in the data set of both observations that fit the model (inliers) and those which differ from the values (outliers). The sources of data that do not fit into the model are gross errors (measurement errors), noise or other disturbances. The input data of the algorithm are: a set of data and a mathematical model that will be matched to the data set. The advantage of this method is that the percentage of outliers which can be handed by RANSAC can be larger than 50% of the entire data set (MURRAY & TORR, 1997). Such a percentage, known also as the "breakdown points", is commonly assumed to be the practical limit for many other commonly-used techniques for parameter estimation (such as a robust estimation method, for example, for the Huber, Hampel and Danish methods).
+  The RANSAC algorithm was first introduced by Fischler and Bolles in 1981 as a method to estimate the parameters of a certain model, starting from a set of data contaminated by large amounts of outliers. It is an iterative, non-deterministic algorithm which uses least-squares to estimate model parameters. The basic premise of RANSAC is the presence in the data set of both observations that fit the model (inliers) and those which differ from the values (outliers). The sources of data that do not fit into the model are gross errors (measurement errors), noise or other disturbances.
+  The input data of the algorithm are: a set of data and a mathematical model that will be matched to the data set. The advantage of this method is that the percentage of outliers which can be handed by RANSAC can be larger than 50% of the entire data set.
+  The RANSAC algorithm is a learning technique to estimate parameters of a model by random sampling of observed data. The RANSAC algorithm is essentially composed of two steps that are iteratively repeated.
 
 :sparkle:In the first step, a sample subset containing minimal data items is randomly selected from the input dataset. fitting model and the corresponding model parameters are computed using only the elements of this sample subset. The cardinality of the sample subset is the smallest sufficient to determine the model parameters.
 
