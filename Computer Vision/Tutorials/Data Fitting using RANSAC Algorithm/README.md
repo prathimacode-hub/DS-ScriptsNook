@@ -25,21 +25,20 @@
 ## :nazar_amulet:  Implementation:
 I have used Cafe dataset where it detects the outlier in the image. X axis is taken as avg no of cafes opened and Y axis as total cafes in the city.
 
-:sparkle: Select randomly the minimum number of points required to determine the model parameters.
+:sparkle: Select a random number of examples to be inliers and train the model. 
 
-:sparkle: Solve for the parameters of the model.
+:sparkle: Test all other data points against the trained model
 
-:sparkle: Determine how many points from the set of all points fit with a predefined tolerance.
+:sparkle: Out of all the data points tested in step 2, select the points as inliers which fall within a user-given tolerance. In scikit-learn, median absolute deviation (MAD) is used for selecting the new points as inliers.
 
-:sparkle: If the fraction of the number of inliers over the total number of points in the set exceeds a predefined threshold, re-estimate the model parameters using all the identified inliers and terminate.
+:sparkle: Retrain the model with all inliers data
 
-:sparkle: Otherwise, repeat steps 1 through 4 (maximum of N times).
+:sparkle: Estimate the error of the retrained model versus the inliers.
 
-:sparkle: Briefly, RANSAC uniformly at random selects a subset of data samples and uses it to estimate model parameters. Then it determines the samples that are within an error tolerance of the generated model.
+:sparkle: Follow step 1 to step 5
 
-:sparkle: These samples are considered as agreed with the generated model and called as consensus set of the chosen data samples. Here, the data samples in the consensus as behaved as inliers and the rest as outliers by RANSAC. If the count of the samples in the consensus is high enough, it trains the final model of the consensus by using them.
-
-:sparkle: It repeats this process for a number of iterations and returns the model that has the smallest average error among the generated models. As a randomized algorithm, RANSAC does not guarantee to find the optimal parametric model with respect to the inliers. However, the probability of reaching the optimal solution can be kept over a lower bound by assigning suitable values to algorithm parameters.
+:sparkle: Terminate the algorithm execution if the model performance meets a certain user-defined threshold or if a fixed number of iterations were reached
+ 
 <p align="center">
   <img width="300" height="200" src="https://www.researchgate.net/profile/Mehrdad-Heydarzadeh/publication/313472923/figure/fig3/AS:663973812776960@1535315101199/Illustration-of-the-threshold-value-determined-by-RANSAC-algorithm-to-detect-outliers.png">
   </p>
@@ -53,7 +52,16 @@ I have used Cafe dataset where it detects the outlier in the image. X axis is ta
 ## :nazar_amulet: Applications:
 The RANSAC algorithm is often used in computer vision, e.g., to simultaneously solve the correspondence problem and estimate the fundamental matrix related to a pair of stereo cameras; see also: Structure from motion, scale-invariant feature transform, image stitching, rigid motion segmentation.
 
-## :nazar_amulet: Conclusion:
-The algorithm was able to find a correct solution and to eliminate outliers from estimation process. Therefore, the effectiveness of RANSAC algorithm applied to estimation of coordinate transformation parameters is confirmed. The main goal of the study was to confirm the possibility to properly estimate coordinate transformation parameters, when the total number of points burdened with errors is greater than 50%. Calculations performed in the second and third variants prove the effectiveness of the proposed algorithm, with the number of observations burdened with errors at the level of 83%. In all three scenarios both residuals and calculated distances between catalogue coordinates and coordinates after transformation were at the level of random observation error. The number of required iterations increased with the number of outliers in the data set. To assure for 99.7% that in the third scenario the algorithm will select two points that are not outliers 206 iterations were required (Table 1).
-
+## :nazar_amulet: Limitations
 Despite the advantages of this method, it has some flows. It is not an efficient method from a computational point of view. Number of iterations increases with the number of outliers in the data set and with required probability of successful selection of two inliers. It requires much iterations and many operations which sometimes (especially in the case of large sets) take a longer time than the standard procedure. 
+
+## :nazar_amulet: Conclusion:
+The algorithm was able to find a correct solution and to eliminate outliers from estimation process. Therefore, the effectiveness of RANSAC algorithm applied to estimation of coordinate transformation parameters is confirmed.
+
+ :stars: RANSAC regression algorithm takes care of removing outliers from the training data set while fitting the model.
+ 
+ :stars:Some of the important hyper parameters for the RANSAC algorithm includes maximum number of iterations, minimum number of samples, loss function, residual threshold.
+ 
+ :stars: Python Sklearn implementation of RANSAC regression takes into account median absolute deviation for handling inliers and outliers.
+ 
+ :stars: RANSAC regression requires a base estimator to be set. With Python Sklearn implementation RANSACRegressor, the default base estimator is LinearRegression.
