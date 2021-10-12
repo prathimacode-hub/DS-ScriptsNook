@@ -1,7 +1,7 @@
 # :fleur_de_lis: Data Fitting using RANSAC Algorithm 
 ## :nazar_amulet:  Objective:
  To clean dataset from noise and detect outliers using RANSAC Algorithm.
-## :nazar_amulet:  what is RANSAC Algorithm?
+## :nazar_amulet:  Introduction
   The RANSAC algorithm was first introduced by Fischler and Bolles in 1981 as a method to estimate the parameters of a certain model, starting from a set of data contaminated by large amounts of outliers. It is an iterative, non-deterministic algorithm which uses least-squares to estimate model parameters. The basic premise of RANSAC is the presence in the data set of both observations that fit the model (inliers) and those which differ from the values (outliers). The sources of data that do not fit into the model are gross errors (measurement errors), noise or other disturbances.
   The input data of the algorithm are: a set of data and a mathematical model that will be matched to the data set. The advantage of this method is that the percentage of outliers which can be handed by RANSAC can be larger than 50% of the entire data set.
   The RANSAC algorithm is a learning technique to estimate parameters of a model by random sampling of observed data. The RANSAC algorithm is essentially composed of two steps that are iteratively repeated.
@@ -19,7 +19,7 @@
   <img width="300" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fitted_line.svg/383px-Fitted_line.svg.png">
   </p>
   
-  #### Fitted line with RANSAC; outliers have no influence on the result.
+  #### Fitted line with RANSAC outliers have no influence on the result.
  
 
 ## :nazar_amulet:  Implementation:
