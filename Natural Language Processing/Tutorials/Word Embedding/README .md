@@ -45,9 +45,9 @@ In this I have cover various word embedding techniques.
 
  
  # :pushpin: TF-IDF Encoding
- 
- 
- Word Embedding is one such technique where we can represent the text using vectors. The more popular forms of word embeddings are: BoW, which stands for Bag of Words. TF-IDF, which stands for Term Frequency-Inverse Document Frequency.
+
+
+TF-IDF (term frequency-inverse document frequency) is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. This is done by multiplying two metrics: how many times a word appears in a document, and the inverse document frequency of the word across a set of documents
  ![image](https://user-images.githubusercontent.com/70129990/137114847-4b9d28b7-f67f-4035-8b80-1bf272940f12.png)
 
  
@@ -76,7 +76,9 @@ The Skip-gram model architecture usually tries to achieve the reverse of what th
  # :pushpin: Bag of Words
  
  
- Word Embedding is one such technique where we can represent the text using vectors. The more popular forms of word embeddings are: BoW, which stands for Bag of Words. TF-IDF, which stands for Term Frequency-Inverse Document Frequency.
+ 
+ Bag of Words (BOW) is a method to extract features from text documents. ... It creates a vocabulary of all the unique words occurring in all the documents in the training set. In simple terms, it's a collection of words to represent a sentence with word count and mostly disregarding the order in which they appear
+ 
  
  ![image](https://user-images.githubusercontent.com/70129990/137116436-da8d441d-a888-459f-82d6-83e24e750546.png)
 
