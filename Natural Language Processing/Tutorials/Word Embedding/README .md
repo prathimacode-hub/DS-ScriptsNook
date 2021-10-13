@@ -65,11 +65,21 @@ One hot encoding is one method of converting data to prepare it for an algorithm
   
  # :pushpin: Continuous Bowl of Words(CBOW)
  
+  In the CBOW model, the distributed representations of context (or surrounding words) are combined to predict the word in the middle. While in the Skip-gram model, the distributed representation of the input word is used to predict the context.
  # :pushpin: skip Gram
  
+ 
+The Skip-gram model architecture usually tries to achieve the reverse of what the CBOW model does. It tries to predict the source context words (surrounding words) given a target word (the center word). Thus the model tries to predict the context_window words based on the target_word.
+
  ![image](https://user-images.githubusercontent.com/70129990/137114319-d76a8175-8baf-4a63-a0db-c5031b49ae44.png)
 
  # :pushpin: Bag of Words
+ 
+ 
+ Word Embedding is one such technique where we can represent the text using vectors. The more popular forms of word embeddings are: BoW, which stands for Bag of Words. TF-IDF, which stands for Term Frequency-Inverse Document Frequency.
+ 
+ ![image](https://user-images.githubusercontent.com/70129990/137116436-da8d441d-a888-459f-82d6-83e24e750546.png)
+
  
  # :pushpin: Glove
  
