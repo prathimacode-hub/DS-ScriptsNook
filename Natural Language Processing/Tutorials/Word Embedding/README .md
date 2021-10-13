@@ -17,26 +17,19 @@ Understanding the intuition behind word embedding creation with deep learning.Fo
 
 1.Importing all the required libraries.
 
-2.BRIEF EXPLANATION of  word embedding techniques.
+2.Brief explanatio of word embedding techniques.
   * TF-IDF Encoding
+  * One Hot Encoding
+  * Word2Vec
+  * Continuous Bowl of Words(CBOW)
+  * skip Gram
+  * Bag of Words
+  * Glove
+  * Embedding Layer
  
- * One Hot Encoding
- 
- * Word2Vec
- 
- * Continuous Bowl of Words(CBOW)
- 
- * skip Gram
- 
- * Bag of Words
- 
- * Glove
- 
- * Embedding Layer
- 
-5.Pratical Implementation of word embedding techniques.
+4.Pratical Implementation of word embedding techniques.
 
-4.Upload  the Jupyter Notebook file.
+5.Upload  the Jupyter Notebook file.
 
 ## :page_facing_up:  **BRIEF EXPLANATION**
 In this I have cover various word embedding techniques.
