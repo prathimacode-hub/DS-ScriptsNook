@@ -59,8 +59,9 @@ In natural language processing, noise removal is a text preprocessing task devot
 
  Tokenization is the process of turning sensitive data into nonsensitive data called "tokens" that can be used in a database or internal system without bringing it into scope. Tokenization can be used to secure sensitive data by replacing the original data with an unrelated value of the same length and format.
 
+<img src="https://user-images.githubusercontent.com/70129990/137155329-fcc336a5-05cd-46c4-b0a3-99a9ed8105fe.png" alt="drawing" width="500"/>
 
-![image](https://user-images.githubusercontent.com/70129990/137155329-fcc336a5-05cd-46c4-b0a3-99a9ed8105fe.png)
+
 
 # :pushpin: Text Normalization
 
@@ -69,13 +70,14 @@ Normalization is the process of converting a token into its base form.In the nor
 # :pushpin: Stemming
 Stemming is used in information retrieval systems like search engines. It is used to determine domain vocabularies in domain analysis.
 
-![image](https://user-images.githubusercontent.com/70129990/137155409-ebb3239c-3be7-4f85-926c-8084f1e6f88f.png)
+<img src="https://user-images.githubusercontent.com/70129990/137155409-ebb3239c-3be7-4f85-926c-8084f1e6f88f.png" alt="drawing" width="500"/>
+
 
 # :pushpin:  Lemmatization
 
 Lemmatization is the process of grouping together the different inflected forms of a word so they can be analyzed as a single item.
 
-![image](https://user-images.githubusercontent.com/70129990/137155482-9c2cd6a1-f1bf-444f-9442-e1ef46ec62c5.png)
+<img src="https://user-images.githubusercontent.com/70129990/137155482-9c2cd6a1-f1bf-444f-9442-e1ef46ec62c5.png" width="500"/>
 
 
 # :pushpin: Stopword Removal
