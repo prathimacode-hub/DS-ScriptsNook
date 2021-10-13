@@ -1,5 +1,5 @@
 
-nlp image
+![image](https://user-images.githubusercontent.com/70129990/137155238-dbd908fb-668a-489d-9083-cc92a2223bc3.png)
 
 # Project Title
 
@@ -9,7 +9,8 @@ Text preprocessing is traditionally an important step for natural language proce
 
 Text preprocessing is an important step to prepare the data to form a machine learning model can understand. 
 
-image
+![image](https://user-images.githubusercontent.com/70129990/137155167-69490efe-23ec-4388-982b-98c5562f2bc3.png)
+
 
 # AIM
 The goal of this project is brief understanding of Text Preprocessing in Natural language processing.
@@ -56,20 +57,38 @@ In natural language processing, noise removal is a text preprocessing task devot
 
  Tokenization is the process of turning sensitive data into nonsensitive data called "tokens" that can be used in a database or internal system without bringing it into scope. Tokenization can be used to secure sensitive data by replacing the original data with an unrelated value of the same length and format.
 
+
+![image](https://user-images.githubusercontent.com/70129990/137155329-fcc336a5-05cd-46c4-b0a3-99a9ed8105fe.png)
+
 # :pushpin: Text Normalization
 
 Normalization is the process of converting a token into its base form.In the normalization process, the inflectional form of a word is removed so that the base form can be obtained.
 
 # :pushpin: Stemming
 Stemming is used in information retrieval systems like search engines. It is used to determine domain vocabularies in domain analysis.
+
+![image](https://user-images.githubusercontent.com/70129990/137155409-ebb3239c-3be7-4f85-926c-8084f1e6f88f.png)
+
 # :pushpin:  Lemmatization
 
 Lemmatization is the process of grouping together the different inflected forms of a word so they can be analyzed as a single item.
+
+![image](https://user-images.githubusercontent.com/70129990/137155482-9c2cd6a1-f1bf-444f-9442-e1ef46ec62c5.png)
+
+
 # :pushpin: Stopword Removal
  The words which are generally filtered out before processing a natural language are called stop words. These are actually the most common words in any language (like articles, prepositions, pronouns, conjunctions, etc) and does not add much information to the text.
+ 
+ 
 # :pushpin: Part-of-Speech Tagging
 
 Part-of-speech (POS) tagging is a popular Natural Language Processing process which refers to categorizing words in a text (corpus) in correspondence with a particular part of speech, depending on the definition of the word and its context.
+
+
+# ** Difference between stemming and lemmatization **
+
+![image](https://user-images.githubusercontent.com/70129990/137155580-a6c008f7-2957-444d-8401-891677de4a5b.png)
+
 
 
 ## :key: LIBRARIES USED
