@@ -1,5 +1,5 @@
 ## PROJECT TITLE
-# :dart: *Word Embedding Techniques*
+# :dart: **Word Embedding Techniques**
 Word embedding implements language modeling and feature extraction based techniques to map a word to vectors of real numbers.
 
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/Word-Vectors.png"
@@ -31,7 +31,7 @@ Understanding the intuition behind word embedding creation with deep learning.Fo
 
  4.Upload  the Jupyter Notebook file.
 
-## :page_facing_up:  *BRIEF EXPLANATION*
+## :page_facing_up:  **BRIEF EXPLANATION**
 In this I have cover various word embedding techniques.
 
 
@@ -102,7 +102,7 @@ The Skip-gram model architecture usually tries to achieve the reverse of what th
  
 
 
-# :bar_chart: *Pratical Implementation*
+# :bar_chart: **Pratical Implementation**
 
 <code>Code</code> [See here](./word_embeddings.ipynb)
 * Word Embedding Techniques using Embedding Layer in Keras.
