@@ -48,6 +48,8 @@ In this I have cover various word embedding techniques.
 
 
 TF-IDF (term frequency-inverse document frequency) is a statistical measure that evaluates how relevant a word is to a document in a collection of documents. This is done by multiplying two metrics: how many times a word appears in a document, and the inverse document frequency of the word across a set of documents
+
+
  ![image](https://user-images.githubusercontent.com/70129990/137114847-4b9d28b7-f67f-4035-8b80-1bf272940f12.png)
 
  
@@ -55,6 +57,8 @@ TF-IDF (term frequency-inverse document frequency) is a statistical measure that
  
  
 One hot encoding is one method of converting data to prepare it for an algorithm and get a better prediction. With one-hot, we convert each categorical value into a new categorical column and assign a binary value of 1 or 0 to those columns. Each integer value is represented as a binary vector.
+
+
  ![image](https://user-images.githubusercontent.com/70129990/137106524-97195f01-76b2-481a-9d51-c40538f7a7d8.png)
 
  
@@ -66,10 +70,11 @@ One hot encoding is one method of converting data to prepare it for an algorithm
  # :pushpin: Continuous Bowl of Words(CBOW)
  
   In the CBOW model, the distributed representations of context (or surrounding words) are combined to predict the word in the middle. While in the Skip-gram model, the distributed representation of the input word is used to predict the context.
+  
  # :pushpin: skip Gram
  
  
-The Skip-gram model architecture usually tries to achieve the reverse of what the CBOW model does. It tries to predict the source context words (surrounding words) given a target word (the center word). Thus the model tries to predict the context_window words based on the target_word.
+The Skip-gram model architecture usually tries to achieve the reverse of what the CBOW model does. It tries to predict the source context words (surrounding words) given a target word (the center word). Thus the model tries to predict the context_window words based on the target word.
 
  ![image](https://user-images.githubusercontent.com/70129990/137114319-d76a8175-8baf-4a63-a0db-c5031b49ae44.png)
 
