@@ -1,0 +1,6 @@
+ nltk
+ re
+ word_tokenize
+ stopwords 
+ PorterStemmer
+ WordNetLemmatizer
