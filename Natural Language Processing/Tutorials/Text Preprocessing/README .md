@@ -1,6 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/70129990/137155238-dbd908fb-668a-489d-9083-cc92a2223bc3.png)
 
+
 # Project Title
 
 # :dart: **Text Preprocessing in Natural language processing**
@@ -9,7 +10,8 @@ Text preprocessing is traditionally an important step for natural language proce
 
 Text preprocessing is an important step to prepare the data to form a machine learning model can understand. 
 
-![image](https://user-images.githubusercontent.com/70129990/137155167-69490efe-23ec-4388-982b-98c5562f2bc3.png)
+
+<img src="https://user-images.githubusercontent.com/70129990/137155167-69490efe-23ec-4388-982b-98c5562f2bc3.png" alt="drawing" width="500"/>
 
 
 # AIM
@@ -85,7 +87,7 @@ Lemmatization is the process of grouping together the different inflected forms 
 Part-of-speech (POS) tagging is a popular Natural Language Processing process which refers to categorizing words in a text (corpus) in correspondence with a particular part of speech, depending on the definition of the word and its context.
 
 
-# ** Difference between stemming and lemmatization **
+#  Difference between stemming and lemmatization 
 
 ![image](https://user-images.githubusercontent.com/70129990/137155580-a6c008f7-2957-444d-8401-891677de4a5b.png)
 
