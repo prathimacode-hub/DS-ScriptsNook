@@ -90,6 +90,9 @@ The Skip-gram model architecture usually tries to achieve the reverse of what th
  
  # :pushpin: Glove
  
+ The GloVe model is trained on the non-zero entries of a global word-word co-occurrence matrix, which tabulates how frequently words co-occur with one another in a given corpus. Populating this matrix requires a single pass through the entire corpus to collect the statistics.
+ 
+ 
   ![image](https://user-images.githubusercontent.com/70129990/137114756-e506f4c0-743b-48ad-b033-7741fa8d6b10.png)
 
  # :pushpin: Embedding Layer
