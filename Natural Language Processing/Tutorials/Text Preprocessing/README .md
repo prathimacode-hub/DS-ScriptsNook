@@ -91,7 +91,7 @@ Part-of-speech (POS) tagging is a popular Natural Language Processing process wh
 
 #  Difference between stemming and lemmatization 
 
-![image](https://user-images.githubusercontent.com/70129990/137155580-a6c008f7-2957-444d-8401-891677de4a5b.png)
+<img src="https://user-images.githubusercontent.com/70129990/137155580-a6c008f7-2957-444d-8401-891677de4a5b.png" width="500"/>
 
 
 
