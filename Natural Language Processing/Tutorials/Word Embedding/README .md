@@ -43,6 +43,8 @@ In this I have cover various word embedding techniques.
 
 
  :pushpin: Binary Encoding
+ 
+ 
  The representation of symbols in a source alphabet by strings of binary digits, i.e. a binary code. The most commonly occurring source alphabet consists of the set of    alphanumeric characters.
  
  
@@ -50,16 +52,22 @@ In this I have cover various word embedding techniques.
 
  
  :pushpin: TF-IDF Encoding
+ 
+ 
  Word Embedding is one such technique where we can represent the text using vectors. The more popular forms of word embeddings are: BoW, which stands for Bag of Words. TF-IDF, which stands for Term Frequency-Inverse Document Frequency.
  ![image](https://user-images.githubusercontent.com/70129990/137114847-4b9d28b7-f67f-4035-8b80-1bf272940f12.png)
 
  
  :pushpin: One Hot Encoding
+ 
+ 
 One hot encoding is one method of converting data to prepare it for an algorithm and get a better prediction. With one-hot, we convert each categorical value into a new categorical column and assign a binary value of 1 or 0 to those columns. Each integer value is represented as a binary vector.
  ![image](https://user-images.githubusercontent.com/70129990/137106524-97195f01-76b2-481a-9d51-c40538f7a7d8.png)
 
  
  :pushpin: Word2Vec
+ 
+ 
   Word2vec is a technique for natural language processing published in 2013. The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence.
   
  :pushpin: Continuous Bowl of Words(CBOW)
@@ -75,6 +83,8 @@ One hot encoding is one method of converting data to prepare it for an algorithm
   ![image](https://user-images.githubusercontent.com/70129990/137114756-e506f4c0-743b-48ad-b033-7741fa8d6b10.png)
 
  :pushpin: Embedding Layer
+ 
+ 
  Embedding layer is one of the available layers in Keras. This is mainly used in Natural Language Processing related applications such as language modeling, but it can also be used with other tasks that involve neural networks. While dealing with NLP problems, we can use pre-trained word embeddings such as GloVe.
  
 
