@@ -20,11 +20,15 @@ Refer the comments in notebook file for explanations
 
 **USAGE**
 
-I have choosed this issue specifically to contribute about unsupervised learning - clustering.
+- Discover hidden patterns in data
+- Identifying fake news
+- spam filtering
+- identify fraudulent activity
 
-**USE CASES**
-
-- ny grouping use cases can be done using this
+**Use Cases*
+- To cluster different books in library
+- Classifying different species
+- Customers clustering in malls and other commercial platforms
 
 **LIBRARIES USED**
 
