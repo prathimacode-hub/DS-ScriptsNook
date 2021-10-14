@@ -25,7 +25,7 @@ Refer the comments in notebook file for explanations
 - spam filtering
 - identify fraudulent activity
 
-**Use Cases*
+**Use Cases**
 - To cluster different books in library
 - Classifying different species
 - Customers clustering in malls and other commercial platforms
