@@ -26,8 +26,8 @@ Refer the comments in notebook file for explanations
 - identify fraudulent activity
 
 **Use Cases**
-- To cluster different books in library
-- Classifying different species
+- To cluster different books in library based on topic or author
+- Classifying different species based on similarity in DNA or some other biological factors
 - Customers clustering in malls and other commercial platforms
 
 **LIBRARIES USED**
