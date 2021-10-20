@@ -1,0 +1,5 @@
+REQUIREMENTS
+You need to install following libraries:
+1. Matplotlib
+2. Numpy
+
