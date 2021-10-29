@@ -71,7 +71,9 @@ The topic was well researched before framing it as a Python Program. Author had 
 
 **SCREENSHOTS**
 
-Add screenshots of the output or visualizations or anything related to your script to show it works
+![image](https://user-images.githubusercontent.com/43356237/139460386-9fdaf44a-b756-45d3-af89-46f2d439aca4.png)
+![image](https://user-images.githubusercontent.com/43356237/139460450-5235dfc0-47d6-47ab-98aa-01d3e245db41.png)
+
 
 
 **CONCLUSION**
