@@ -4,11 +4,14 @@ K-Means Clustering
 ## **INTRODUCTION**
 In this tutorial we will be using Jupyter Notebook to learn how to use K Medoids Clustering algorithm. In this tutorial we will be learning how K Medoids clustering works.
 
-## **PURPOSE**
-Our aim here is to process the learning data, the K-Medoids algorithm in data mining is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. Actual Objects in a Cluster) to represent the Cluster.We will understand deeper about the same in this code.
+## **DESCRIPTION**
+Our aim here is to process the learning data, the K-Medoids algorithm in data mining is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. Actual Objects in a Cluster) to represent the Cluster.We will understand deeper about the same in this code.K Medoid is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. Actual Objects in a Cluster) to represent the Cluster.cluster of which the representative object is the most similar. The partitioning method is then performed based on the principle of minimizing the sum of the dissimilarities between each object p and its corresponding representative object.
 
-## **BRIEF EXPLANATION**
-K Medoid is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. Actual Objects in a Cluster) to represent the Cluster.
+## Partitioning Around Medoids (PAM)
+The Partitioning Around Medoids (PAM) algorithm  is a popular realization of k-medoids clustering. It tackles the problem in an iterative, greedy way. Like the k-means algorithm, the initial representative objects (called seeds) are chosen arbitrarily. We consider whether replacing a representative object by a nonrepresentative object would improve the clustering quality. All the possible replacements are tried out. The iterative process of replacing representative objects by other objects continues until the quality of the resulting clustering cannot be improved by any replacement. This quality is measured by a cost function of the average dissimilarity between an object and the representative object of its cluster.<br>
+PAM starts from an initial set of medoids and iteratively replaces one of the medoids by one of the non-medoids if it improves the total distance of the resulting clustering.<br>
+PAM works effectively for small data sets, but does not scale well for large data sets (due to the computational complexity)
+
 
 ## K Medoid Clustering Process
 <ol>
