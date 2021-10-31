@@ -43,7 +43,12 @@ K Medoid is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. A
 2. In this , I have created a random dataset using make_blobs functions present in the scikit learn library
 3. Then , we implemented the KMedoids clustering model , using scikit learn extra library
 4. After implementation we got a silhouette score of around 63.7%
-5. Then we have compared the same with two other clustering technique used in the markets that is KMeans and Birch Alogrithm
+5. Then we have compared the same with two other clustering technique used in the markets that is KMeans and Birch Alogrithm 
+
+Model	Scores<br>
+KMedoids	0.637642<br>
+KMeans	0.594127<br>
+Birch	0.571567
 
 
 
