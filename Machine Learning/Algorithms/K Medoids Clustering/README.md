@@ -32,6 +32,28 @@ K Medoid is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. A
 - scikit-learn-extra
 
 
+## Advantages
+<ul>
+  <li>It outputs the final clusters of objects in a fixed number of iterations</li>
+ <li>It is simple to understand and easy to implement.</li>
+  <li>K-Medoid Algorithm is fast and converges in a fixed number of steps.</li>
+  <li>PAM is less sensitive to outliers than other partitioning algorithms.</li>
+</ul>  
+
+## Disadvantages
+<ul>
+  <li>The main disadvantage of K-Medoid algorithms is that it is not suitable for clustering non-spherical (arbitrary shaped) groups of objects. This is because it relies on minimizing the distances between the non-medoid objects and the medoid (the cluster center) – briefly, it uses compactness as clustering criteria instead of connectivity.</li>
+  <li>It may obtain different results for different runs on the same dataset because the first k medoids are chosen randomly.</li>
+</ul> 
+
+## Complexity
+The time complexity of the algorithm is O(k * (n-k)2) , where k is th enumber of clusters.
+
+## Comparison with K Means
+The k-medoids method is more robust than k-means in the presence of noise and outliers because a medoid is less influenced by outliers or other extreme values than a mean. However, the complexity
+of each iteration in the k-medoids algorithm is O(k(n − k)<sup>2</sup>). For large values of n
+and k, such computation becomes very costly, and much more costly than the k-means
+method.Both methods require the user to specify k, the number of clusters.
 
 ## **IMAGES**
 <img src = "https://github.com/photon149/DS-ScriptsNook/blob/56c53773376f4f8d12231bfb50eb63ddb05c8f03/Machine%20Learning/Algorithms/K%20Medoids%20Clustering/Images/data_cluster.png">
