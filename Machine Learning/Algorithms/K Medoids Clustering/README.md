@@ -31,33 +31,12 @@ K Medoid is a Clustering Algorithm in Machine Learning that uses Medoids (i.e. A
 - scikit-learn
 - scikit-learn-extra
 
-## **ADVANTAGES**
-
-- Relatively simple to implement.
-- Scales to large data sets.
-- Guarantees convergence.
-- Can warm-start the positions of centroids.
-- Easily adapts to new examples.
-
-## **DISADVANTAGES**
-- Being dependent on initial values.
-- Choosing k manually.
-- Clustering data of varying sizes and density.
-- Scaling with number of dimensions.
-
-
-## **APPLICATIONS**
-K-Means clustering is used in a variety of examples or business cases in real life, like:
-
-- Academic performance 
-- Diagnostic systems 
-- Search engines 
-- Wireless sensor networks
 
 
 ## **IMAGES**
 <img src = "https://github.com/photon149/DS-ScriptsNook/blob/56c53773376f4f8d12231bfb50eb63ddb05c8f03/Machine%20Learning/Algorithms/K%20Medoids%20Clustering/Images/data_cluster.png">
 <img src = "https://github.com/photon149/DS-ScriptsNook/blob/56c53773376f4f8d12231bfb50eb63ddb05c8f03/Machine%20Learning/Algorithms/K%20Medoids%20Clustering/Images/kmedoids_cluster.png">
+
 ## **CONCLUSION**
 
 1. In this , I have implemented unsupervised clustering technique called K-Medoids Clustering.
