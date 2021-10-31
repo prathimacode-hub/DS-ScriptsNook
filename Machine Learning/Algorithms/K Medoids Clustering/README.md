@@ -56,7 +56,8 @@ K-Means clustering is used in a variety of examples or business cases in real li
 
 
 ## **IMAGES**
-
+<img src = "https://github.com/photon149/DS-ScriptsNook/blob/56c53773376f4f8d12231bfb50eb63ddb05c8f03/Machine%20Learning/Algorithms/K%20Medoids%20Clustering/Images/data_cluster.png">
+<img src = "https://github.com/photon149/DS-ScriptsNook/blob/56c53773376f4f8d12231bfb50eb63ddb05c8f03/Machine%20Learning/Algorithms/K%20Medoids%20Clustering/Images/kmedoids_cluster.png">
 ## **CONCLUSION**
 
 1. In this , I have implemented unsupervised clustering technique called K-Medoids Clustering.
